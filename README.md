@@ -1,5 +1,5 @@
-<img width="900" height="1600" alt="032925fc-1a83-4c5e-99c7-b950b4776b15" src="https://github.com/user-attachments/assets/ae759c08-6b2a-4c6d-80bc-b396bc41c2ff" />
-# EXPT.NO.09-IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
+
+# EXPT.NO.08-IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
 # AIM:
 To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit) technique.
 
