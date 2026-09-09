@@ -1,3 +1,4 @@
+<img width="900" height="1600" alt="032925fc-1a83-4c5e-99c7-b950b4776b15" src="https://github.com/user-attachments/assets/ae759c08-6b2a-4c6d-80bc-b396bc41c2ff" />
 # EXPT.NO.09-IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
 # AIM:
 To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit) technique.
@@ -51,6 +52,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
+<img width="900" height="1600" alt="032925fc-1a83-4c5e-99c7-b950b4776b15" src="https://github.com/user-attachments/assets/1546be3d-e0eb-4207-9a4d-e703fae2858b" />
 
 
 # RESULT:
